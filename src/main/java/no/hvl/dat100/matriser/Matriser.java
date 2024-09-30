@@ -2,6 +2,7 @@ package no.hvl.dat100.matriser;
 
 import java.util.Arrays;
 
+
 public class Matriser {
 
 	// a)
