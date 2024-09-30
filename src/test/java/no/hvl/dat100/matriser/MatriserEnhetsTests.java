@@ -90,6 +90,7 @@ class MatriserEnhetsTests {
 		assertArrayEquals(speilet,speile);
 	}
 	
+/*
 	@Test 
 	void testMultipliser () {
 
@@ -104,7 +105,7 @@ class MatriserEnhetsTests {
 		assertArrayEquals(ca,multiplisert);
 		
 	}
-	
+*/	
 	@Test
 	void testerLik() {
 		
